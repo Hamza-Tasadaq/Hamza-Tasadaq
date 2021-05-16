@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamza-Tasadaq
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React
+- 👀 I’m a Reactjs Developer
+- 🌱 I’m currently learning Nodejs Express.js and Mongodb
 - 📫 How to reach me https://github.com/Hamza-Tasadaq
 
 <!---
